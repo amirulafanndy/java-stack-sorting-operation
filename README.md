@@ -1,3 +1,4 @@
 # java-stack-sorting-operation
  Stack Sorting Operation with java
-![alt text](https://cdn-icons-png.flaticon.com/512/5968/5968282.png)
+<p>Language</p>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
