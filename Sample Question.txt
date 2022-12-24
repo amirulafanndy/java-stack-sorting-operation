@@ -1,0 +1,13 @@
+Question (This question should be solved by user define linkedlist stack operation)
+
+Write a java program using stack to solve the following problem.
+
+1. Create a class student than consist the following information (String name, String matric, String gender, double cgpa).
+
+2. Prom user to enter 10 student object and push() all object to stackAllStudent.
+
+3. Pop all data from stackAllStudent and check object cgpa and push any student that have cgpa more or equal than 3.0 into stackExcelStd and student that have cgpa below than 3.0 into stackWeakStd.
+
+4. Rearrange all object in stackExcelStd and stackWeakStd based on student name in alphabetical order.
+
+5. Display all students data in stackExcelStd and stackWeakStd.
