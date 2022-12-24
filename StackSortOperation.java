@@ -39,6 +39,8 @@ public class StackSortOperation {
             stackAllStudent.push(new Student(stdName, stdMatric, stdGender, stdCgpa));
             
         }
+
+        userInp.close();
         
         
         
